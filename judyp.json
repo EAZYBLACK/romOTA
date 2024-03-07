@@ -8,6 +8,8 @@
         "download": "https://master.dl.sourceforge.net/project/juleast-rom-builds/crDroid/judyp/A14/crDroidAndroid-14.0-20240131-judyp-v10.1.zip?viasf=1",
         "timestamp": 1709827688,
         "size": 1029076344,
+        "md5": "changethis",
+        "sha256": "changethis",
         "version": "10.1",
         "buildtype": "Monthly",
         "forum": "https://t.me/emhub",
