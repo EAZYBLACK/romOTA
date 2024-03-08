@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+        "maintainer": "EAZY BLACK",
+        "oem": "LGE",
+        "device": "LG G7 ThinQ",
+        "filename": "crDroidAndroid-11.0-20240307-judyln-v7.39.zip",
+        "download": "https://github.com/EAZYBLACK/romOTA/releases/download/crDroidAndroid-11.0-20240307-judyln-v7.39/crDroidAndroid-11.0-20240307-judyln-v7.39.zip",
+        "timestamp": 1709836220,
+        "md5": "7f37cdc6bd69839b4fbda9983e1be6ed",
+        "size": 950054668,
+        "version": "7.39",
+        "buildtype": "Monthly",
+        "forum": "https://t.me/emhub",
+        "gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/07-Mar-2024/NikGapps-core-arm64-11-20240307-signed.zip/download",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https://t.me/emhub"
+    }
+  ]
+}
