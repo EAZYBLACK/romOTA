@@ -1,0 +1,27 @@
+{
+  "response": [
+    {
+        "maintainer": "EAZY BLACK",
+        "oem": "Xiaomi",
+        "device": "Redmi Note 11/NFC",
+        "filename": "crDroidAndroid-13.0-20250325-spes-v9.26.zip",
+        "download": "https://github.com/EAZYBLACK/romOTA/releases/download/crDroidAndroid-13.0-20250325-spes-v9.26/crDroidAndroid-13.0-20250325-spes-v9.26.zip",
+        "timestamp": 1742895840,
+        "md5": "90bd8269c20c2938890075c47f303847",
+        "sha256": "6bed0de34234b0d0a38ee6c4a07db4c8d6e52d46ea20e074e3c7170cc05542ba",
+        "size": 1315053789,
+        "version": "9.26",
+        "buildtype": "Monthly",
+        "forum": "https://t.me/RedmiNote11_Community",
+        "gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-13/31-Dec-2024/NikGapps-core-arm64-13-20241231-signed.zip/download",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https://t.me/RedmiNote11_Community",
+        "dt": "https://github.com/muralivijay/android_device_xiaomi_spes",
+        "kernel": "https://github.com/spes-development/kernel_xiaomi_sm6225"
+    }
+  ]
+}
