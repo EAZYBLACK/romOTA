@@ -4,16 +4,16 @@
         "maintainer": "EAZY BLACK",
         "oem": "Xiaomi",
         "device": "Redmi Note 11/NFC",
-        "filename": "crDroidAndroid-13.0-20250325-spes-v9.26.zip",
-        "download": "https://github.com/EAZYBLACK/romOTA/releases/download/crDroidAndroid-13.0-20250325-spes-v9.26/crDroidAndroid-13.0-20250325-spes-v9.26.zip",
-        "timestamp": 1742895840,
-        "md5": "90bd8269c20c2938890075c47f303847",
-        "sha256": "6bed0de34234b0d0a38ee6c4a07db4c8d6e52d46ea20e074e3c7170cc05542ba",
-        "size": 1315053789,
-        "version": "9.26",
+        "filename": "crDroidAndroid-13.0-20251124-spes-v9.34.zip",
+        "download": "https://github.com/EAZYBLACK/romOTA/releases/download/crDroidAndroid-13.0-20251124-spes-v9.34/crDroidAndroid-13.0-20251124-spes-v9.34.zip",
+        "timestamp": 1763972860,
+        "md5": "e98cee446c8523cc8ee1e908090b394c",
+        "sha256": "54f613a74b0e8f569dceeb013db3d91b77b14630a3a83446e78648286e4770b8",
+        "size": 1311998312,
+        "version": "9.34",
         "buildtype": "Monthly",
         "forum": "https://t.me/RedmiNote11_Community",
-        "gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-13/31-Dec-2024/NikGapps-core-arm64-13-20241231-signed.zip/download",
+        "gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-13/16-Jul-2025/NikGapps-core-arm64-13-20250716-signed.zip/download",
         "firmware": "",
         "modem": "",
         "bootloader": "",
@@ -21,7 +21,7 @@
         "paypal": "",
         "telegram": "https://t.me/RedmiNote11_Community",
         "dt": "https://github.com/muralivijay/android_device_xiaomi_spes",
-        "kernel": "https://github.com/spes-development/kernel_xiaomi_sm6225"
+        "kernel": "https://github.com/greenforce-project/kernel_xiaomi_spes_sm6225"
     }
   ]
 }
